@@ -1,0 +1,35 @@
+# build artifacts
+x64/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.pch
+*.ipdb
+*.iobj
+*.tlog
+*.log
+*.cache
+*.FileListAbsolute.txt
+
+# driver outputs
+*.sys
+*.cat
+
+# VS user state
+.vs/
+*.vcxproj.user
+*.suo
+*.sdf
+
+# build dirs
+build/
+out/
+
+# signing material
+*.cer
+*.pfx
+*.p12
